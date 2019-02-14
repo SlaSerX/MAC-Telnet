@@ -41,7 +41,7 @@ Dependencies: gcc (or similar), automake, autoconf
 
 To install dependencies on Debian/Ubuntu based systems:
 
-    apt-get install build-essential automake autoconf
+    apt-get install build-essential automake autoconf autopoint
 
 Download source tarball, extract, compile and install:
 
